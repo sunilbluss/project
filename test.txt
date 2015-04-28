@@ -1,2 +1,4 @@
 this is just to test it for working
  nwo
+ #include <studio.h>
+  leter on i will be deleting this project by working on this
